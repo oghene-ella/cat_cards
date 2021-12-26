@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Moon+Dance&family=Pushster&display=swap");
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+.App .header{
+  width: 100%;
+  height: 20vh;
+  margin:0;
+  padding:0;
+  background-color: #0063e6;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  font-size: calc(16px + 2vmin);
+  color: white;
+  font-family: 'Moon Dance', cursive;
+}
+.App .header h2{
+  margin:0px 100px;
+}
+
+.App .footer{
+  width: 100%;
+  margin:0;
+  padding:0;
+  background-color: #0063e6;
+  height: 10vh;
+  font-size: calc(10px + 2vmin);
+  color: white; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Moon Dance', cursive;
+  font-weight: 300;
+}

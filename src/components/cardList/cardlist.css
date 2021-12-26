@@ -1,0 +1,7 @@
+.card-list {
+    width: 80vw;
+    margin: 12px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
